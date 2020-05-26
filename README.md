@@ -1,4 +1,4 @@
-Adslist
-.: Dirangkum dari beberapa sumber terpercaya
-.: Status = stable
-.: Gunakan blocklist dan whitelistnya
+Adslist<br>
+.: Dirangkum dari beberapa sumber terpercaya<br>
+.: Status = stable<br>
+.: Gunakan blocklist dan whitelistnya<br>
