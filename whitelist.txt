@@ -36,7 +36,7 @@ officeclient.microsoft.com
 portal.fb.com
 redirector.googlevideo.com
 reminders-pa.googleapis.com
-s.gateway.messenger.live.com
+self.events.data.microsoft.com
 s.id
 s.youtube.com
 s.ytimg.com
