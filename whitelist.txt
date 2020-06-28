@@ -25,12 +25,10 @@ firebaselogging.googleapis.com
 firestore.googleapis.com
 fonts.gstatic.com
 googleapis.com
-googleapis.l.google.com
 graph.facebook.com
 graph.instagram.com
 gstatic.com
 i.ytimg.com
-i1.ytimg.com
 j.mp
 officeclient.microsoft.com
 portal.fb.com
@@ -48,3 +46,5 @@ download.windowsupdate.com
 connectivitycheck.gstatic.com
 video-stats.l.google.com
 youtube-nocookie.com
+isnssdk.com
+sgsnssdk.com
