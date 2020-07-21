@@ -16,7 +16,7 @@ https://winhelp2002.mvps.org/hosts.txt
 https://adaway.org/hosts.txt
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Prigent-Malware.txt
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
-https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl_light.txt
+https://raw.githubusercontent.com/acrepost/dbl/master/dbl_light.txt
 https://raw.githubusercontent.com/kenny1har/pihole-indonesia/master/list.txt
 https://raw.githubusercontent.com/w13d/adblockListABP-PiHole/master/list.txt
 https://raw.githubusercontent.com/austinheap/sophos-xg-block-lists/master/add-risk.txt
