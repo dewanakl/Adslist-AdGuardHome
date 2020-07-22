@@ -1,0 +1,16 @@
+sudo nano /etc/resolv.conf
+sudo nano /etc/NetworkManager/NetworkManager.conf
+sudo nano /etc/resolvconf/resolv.conf.d/base
+sudo nano /etc/resolvconf/resolv.conf.d/head
+sudo nano /etc/systemd/resolved.conf
+sudo nano /etc/network/interfaces
+# Ethernet adapter 0
+auto eth0
+allow-hotplug eth0
+#no-auto-down eth0
+iface eth0 inet static
+address 192.168.100.2
+netmask 255.255.255.0
+gateway 192.168.100.1
+dns-nameservers 208.67.222.222
+#dns-nameservers 208.67.222.222
