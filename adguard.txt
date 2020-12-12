@@ -41,7 +41,7 @@
 @@||s2.youtube.com^
 @@||t.co^
 @@||upload.facebook.com^
-@@||utlook.office365.com^
+@@||branch.io^
 @@||download.windowsupdate.com^
 @@||connectivitycheck.gstatic.com^
 @@||video-stats.l.google.com^
