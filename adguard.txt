@@ -40,7 +40,7 @@
 @@||s.ytimg.com^
 @@||s2.youtube.com^
 @@||t.co^
-@@||upload.facebook.com^
+@@||split.io^
 @@||branch.io^
 @@||download.windowsupdate.com^
 @@||connectivitycheck.gstatic.com^
