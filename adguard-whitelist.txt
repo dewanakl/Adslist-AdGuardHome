@@ -10,6 +10,7 @@
 @@||beacons4.gvt2.com^
 @@||beacons5.gvt2.com^
 @@||beacons5.gvt3.com^
+@@||redirector.gvt1.com^
 @@||cdn.fbsbx.com^
 @@||clients1.google.com^
 @@||clients2.google.com^
@@ -48,3 +49,16 @@
 @@||youtube-nocookie.com^
 @@||isnssdk.com^
 @@||sgsnssdk.com^
+@@||connectivitycheck.android.com^
+@@||googleusercontent.com^
+@@||apple.com^
+@@||appleiphonecell.com^
+@@||aaplimg.com^
+@@||apple-dns.net^
+@@||apple.com.akadns.net^
+@@||icloud.com^
+@@||itunes-apple.com.akadns.net^
+@@||itunes.apple.com^
+@@||microsoft.com^
+@@||windowsupdate.com^
+@@||msftncsi.com^
