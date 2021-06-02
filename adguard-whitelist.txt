@@ -54,10 +54,7 @@
 @@||apple.com^
 @@||appleiphonecell.com^
 @@||aaplimg.com^
-@@||apple-dns.net^
-@@||apple.com.akadns.net^
 @@||icloud.com^
-@@||itunes-apple.com.akadns.net^
 @@||itunes.apple.com^
 @@||microsoft.com^
 @@||windowsupdate.com^
