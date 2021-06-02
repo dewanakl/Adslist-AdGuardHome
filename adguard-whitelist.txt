@@ -66,3 +66,4 @@
 @@||office365.com^
 @@||testconnectivity.microsoft.com^
 @@||teams.microsoft.com^
+@@||login.microsoftonline.com^
