@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt
 https://adaway.org/hosts.txt
-https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/abp_light.txt
+https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl_light.txt
 https://abpvn.com/android/abpvn.txt
 https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/categories/doubleclick.txt
 https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_ads.txt
