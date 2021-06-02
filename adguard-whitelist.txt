@@ -52,7 +52,6 @@
 @@||connectivitycheck.android.com^
 @@||googleusercontent.com^
 @@||apple.com^
-@@||appleiphonecell.com^
 @@||aaplimg.com^
 @@||icloud.com^
 @@||itunes.apple.com^
