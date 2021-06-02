@@ -1,7 +1,6 @@
 @@||aaplimg.com^
 @@||android.clients.google.com^
 @@||api.facebook.com^
-@@||apple.com^
 @@||appleid.apple.com^
 @@||b-api.facebook.com^
 @@||b-graph.facebook.com^
@@ -35,7 +34,6 @@
 @@||graph.instagram.com^
 @@||gstatic.com^
 @@||i.ytimg.com^
-@@||icloud.com^
 @@||isnssdk.com^
 @@||itunes.apple.com^
 @@||j.mp^
