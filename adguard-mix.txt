@@ -1,63 +1,27 @@
 ! update 2 Jun 2021
 ! mix indonesia ads + doh block
-||v16.snackvideo.in^
-||v1-cm.snackvideo.in^
-||v2.snackvideo.in^
-||v1-h.snackvideo.in^
-||v16-h.snackvideo.in^
-||tx-sgp-origin-pull.snackvideo.in^
-||tx-sgp-pull.snackvideo.in^
-||ks-sgp-origin-pull.snackvideo.in^
-||ali-sgp-origin-pull.snackvideo.in^
-||ws-sgp-origin-pull.snackvideo.in^
-||ali-sgp-pull.snackvideo.in^
-||v2-h.snackvideo.in^
-||ws-sgp-pull.snackvideo.in^
-||in-gaap.snackvideo.in^
-||v13.snackvideo.in^
+! ||v16.snackvideo.in^
+! ||v1-cm.snackvideo.in^
+! ||v2.snackvideo.in^
+! ||v1-h.snackvideo.in^
+! ||v16-h.snackvideo.in^
+! ||tx-sgp-origin-pull.snackvideo.in^
+! ||tx-sgp-pull.snackvideo.in^
+! ||ks-sgp-origin-pull.snackvideo.in^
+! ||ali-sgp-origin-pull.snackvideo.in^
+! ||ws-sgp-origin-pull.snackvideo.in^
+! ||ali-sgp-pull.snackvideo.in^
+! ||v2-h.snackvideo.in^
+! ||ws-sgp-pull.snackvideo.in^
+! ||in-gaap.snackvideo.in^
+! ||v13.snackvideo.in^
 ! end
 ||uadexchange.com^
-||das.uadexchange.com^
-||a00.uadexchange.com^
-||a01.uadexchange.com^
-||a02.uadexchange.com^
-||a03.uadexchange.com^
-||a04.uadexchange.com^
-||a05.uadexchange.com^
-||p00.notifa.info^
-||p01.notifa.info^
-||p02.notifa.info^
-||p03.notifa.info^
-||p05.notifa.info^
-||d01.notifa.info^
-||d02.notifa.info^
-||d03.notifa.info^
-||d04.notifa.info^
-||d05.notifa.info^
 ||notifa.info^
 ||upoint.id^
 ||usearch.co.id^
 ||digiads.co.id^
-||js.digiads.co.id^
-||digilife.uzone.id^
-||expose.uzone.id^
-||food.uzone.id^
-||internetpositif.uzone.id^
-||kendedes.uzone.id^
-||mercusuar.uzone.id^
-||news.uzone.id^
-||terbaru.uzone.id^
-||terpopuler.uzone.id^
 ||uzone.id^
-||block.uzone.id^
-||cdn1.uzone.id^
-||cdn2.uzone.id^
-||cdn3.uzone.id^
-||cdn4.uzone.id^
-||cdn5.uzone.id^
-||cdn.uzone.id^
-||cfs.uzone.id^
-||csf.uzone.id^
 ||ap.ime.cootek.com^
 ||usa-usage.ime.cootek.com^
 ||ap.ime.cdn.cootekservice.com^
