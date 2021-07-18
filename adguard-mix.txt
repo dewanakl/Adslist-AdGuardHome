@@ -1,21 +1,5 @@
-! update 2 Jun 2021
-! mix indonesia ads + doh block
-! ||v16.snackvideo.in^
-! ||v1-cm.snackvideo.in^
-! ||v2.snackvideo.in^
-! ||v1-h.snackvideo.in^
-! ||v16-h.snackvideo.in^
-! ||tx-sgp-origin-pull.snackvideo.in^
-! ||tx-sgp-pull.snackvideo.in^
-! ||ks-sgp-origin-pull.snackvideo.in^
-! ||ali-sgp-origin-pull.snackvideo.in^
-! ||ws-sgp-origin-pull.snackvideo.in^
-! ||ali-sgp-pull.snackvideo.in^
-! ||v2-h.snackvideo.in^
-! ||ws-sgp-pull.snackvideo.in^
-! ||in-gaap.snackvideo.in^
-! ||v13.snackvideo.in^
-! end
+! update 18 Jul 2021 !
+! mix [ads in indonesia + DOH] !
 ||uadexchange.com^
 ||notifa.info^
 ||upoint.id^
@@ -79,8 +63,8 @@
 ||dns.alekberg.net^
 ||dns.bitgeek.in^
 ||dns.brahma.world^
-||dns.cloudflare.com^
 ||dns.cloudflare^
+||dns.cloudflare.com^
 ||www.dns.cloudflare^
 ||www.dns.cloudflare.com^
 ||dns.cmrg.net^
@@ -140,6 +124,7 @@
 ||doh.cleanbrowsing.org^
 ||doh.crypto.sx^
 ||doh.defaultroutes.de^
+||doh.dns.apple.com^
 ||doh.dns.sb^
 ||doh.dnslify.com^
 ||doh.eastus.pi-dns.com^
@@ -217,26 +202,3 @@
 ||unicast.uncensoreddns.org^
 ||uw-dns.rubyfish.cn^
 ||wdns.233py.com^
-||epicbrowser.com^
-||tor.bravesoftware.com^
-||ur-browser.com^
-||darknet.to^
-||onion.cab^
-||onion.city^
-||onion.direct^
-||onion.dog^
-||onion.ly^
-||onion.pet^
-||onion.sh^
-||onion.to^
-||onion.ws^
-||torproject.org^
-||dee.su^
-||digi77.com^
-||ipredia.org^
-||mofolinux.com^
-||parrotsec.org^
-||polippix.org^
-||privacy-cd.org^
-||tails.boum.org^
-||whonix.org^
