@@ -64,7 +64,6 @@
 ||dns.bitgeek.in^
 ||dns.brahma.world^
 ||dns.cloudflare.com^
-||www.dns.cloudflare^
 ||www.dns.cloudflare.com^
 ||dns.cmrg.net^
 ||dns.containerpi.co^
