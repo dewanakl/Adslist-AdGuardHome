@@ -63,7 +63,6 @@
 ||dns.alekberg.net^
 ||dns.bitgeek.in^
 ||dns.brahma.world^
-||dns.cloudflare^
 ||dns.cloudflare.com^
 ||www.dns.cloudflare^
 ||www.dns.cloudflare.com^
