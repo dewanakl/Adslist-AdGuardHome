@@ -4,6 +4,7 @@
 @@||b-api.facebook.com^
 @@||b-graph.facebook.com^
 @@||branch.io^
+@@||broadcast.skype.com^
 @@||clients1.google.com^
 @@||clients2.google.com^
 @@||clients3.google.com^
@@ -27,8 +28,9 @@
 @@||isnssdk.com^
 @@||j.mp^
 @@||live.com^
-@@||microsoft.com^
+@@||lync.com^
 @@||msftncsi.com^
+@@||msecnd.net^
 @@||office365.com^
 @@||s2.youtube.com^
 @@||s.id^
@@ -36,5 +38,8 @@
 @@||s.ytimg.com^
 @@||sgsnssdk.com^
 @@||split.io^
+@@||skype.com^
 @@||t.co^
+@@||teams.microsoft.com^
+@@||tenor.com^
 @@||windowsupdate.com^
