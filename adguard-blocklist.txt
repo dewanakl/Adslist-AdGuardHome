@@ -2,9 +2,11 @@ https://adaway.org/hosts.txt
 https://abpvn.com/android/abpvn.txt
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
+https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_ads.txt
 https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl_light.txt
 https://raw.githubusercontent.com/dewanakl/Adslist-AdGuardHome/master/adguard-mix.txt
 https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
+--
+https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
