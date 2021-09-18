@@ -1,6 +1,5 @@
-! update 08 Sep 2021 !
+! update 18 Sep 2021 !
 ! Encrypted DNS !
-||1dot1dot1dot1.cloudflare-dns.com^
 ||a.ns.dnslify.com^
 ||adblock.mydns.network^
 ||adult-filter-dns.cleanbrowsing.org^
@@ -8,6 +7,8 @@
 ||canadianshield.cira.ca^
 ||cloudflare-dns.com^
 ||cloudflare-gateway.com^
+||www.cloudflare-dns.com^
+||www.cloudflare-gateway.com^
 ||commons.host^
 ||dns-family.adguard.com^
 ||dns-gcp.aaflalo.me^
@@ -111,7 +112,6 @@
 ||edns.233py.com^
 ||example.doh.blockerdns.com^
 ||family-filter-dns.cleanbrowsing.org^
-||family.cloudflare-dns.com^
 ||fi.doh.dns.snopyta.org^
 ||getdnsapi.net^
 ||google-public-dns-a.google.com^
@@ -128,7 +128,6 @@
 ||kaitain.restena.lu^
 ||lux1.nixnet.xyz^
 ||lv1.nixnet.xyz^
-||mozilla.cloudflare-dns.com^
 ||ndns.233py.com^
 ||ns1.dnsprivacy.at^
 ||ns2.dnsprivacy.at^
@@ -152,7 +151,6 @@
 ||rumpelsepp.org^
 ||sdns.233py.com^
 ||security-filter-dns.cleanbrowsing.org^
-||security.cloudflare-dns.com^
 ||sg.gridns.xyz^
 ||tls-dns-u.odvr.dns-oarc.net^
 ||unicast.censurfridns.dk^
