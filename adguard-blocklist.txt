@@ -1,8 +1,8 @@
 https://adaway.org/hosts.txt
 https://abpvn.com/android/abpvn.txt
+https://energized.pro/extensions/porn-lite/formats/domains.txt
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-https://block.energized.pro/extensions/porn-lite/formats/hosts.txt
 https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt
 https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl_light.txt
