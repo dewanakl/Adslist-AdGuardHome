@@ -220,7 +220,6 @@
 ||ads.oppomobile.com^
 ||ads.pinterest.com^
 ||ads.reddit.com^
-||ads.tiktok.com^
 ||ads.yahoo.com^
 ||ads.yap.yahoo.com^
 ||ads.youtube.com^
