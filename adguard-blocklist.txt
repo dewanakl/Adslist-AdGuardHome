@@ -1,7 +1,5 @@
-https://adaway.org/hosts.txt
-https://energized.pro/extensions/porn-lite/formats/domains.txt
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt
-https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
 https://raw.githubusercontent.com/dewanakl/Adslist-AdGuardHome/master/adguard-mix.txt
 https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
