@@ -43,3 +43,11 @@
 @@||tenor.com^
 @@||update.microsoft.com^
 @@||windowsupdate.microsoft.com^
+@@||cdn.whatsapp.net^
+@@||fna.whatsapp.net^
+@@||g.whatsapp.net^
+@@||graph.whatsapp.com^
+@@||mmg.whatsapp.net^
+@@||pps.whatsapp.net^
+@@||static.whatsapp.net^
+@@||v.whatsapp.net^
